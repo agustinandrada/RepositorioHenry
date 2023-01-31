@@ -1,1 +1,1 @@
-Repositorio usadfo parea el Homework
+Repositorio usado para el Homework
