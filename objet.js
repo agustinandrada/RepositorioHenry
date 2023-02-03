@@ -74,3 +74,7 @@ var mascota = {
     console.log('Mi perro es un  ' + this.raza);
     },
 };
+
+//devolver un array con todas las keyss
+console.log(Object.entries(mascota))
+
