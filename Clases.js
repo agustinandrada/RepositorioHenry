@@ -20,19 +20,19 @@
 
 //Expresion de clase
 
-// class Auto{
-//     constructor(puertas, color, marca, año, ruedas){
-//         this.puertas = puertas;
-//         this.color = color;
-//         this.marca = marca;
-//         this.año = año;
-//         this.ruedas = ruedas;
-//     }
+class Auto{
+    constructor(puertas, color, marca, año, ruedas){
+        this.puertas = puertas;
+        this.color = color;
+        this.marca = marca;
+        this.año = año;
+        this.ruedas = ruedas;
+    }
 
-//     informacion(){
-//         console.log('Este es un '+ this.marca + ' de color ' + this.color);
-//     }
-// }
+    informacion(){
+        console.log('Este es un '+ this.marca + ' de color ' + this.color);
+    }
+}
 
 // miSegundoAuto = new Auto(4, 'blanco', 'fiat', 2015, 4);
 
